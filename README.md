@@ -122,6 +122,7 @@ Bank_Loan_Analysis/
 │
 └── README.md
 
+
 🚀 Business Value
 
 This project demonstrates how data analytics can drive smarter lending decisions by:
@@ -145,4 +146,4 @@ Automated data refresh using SQL pipelines
 Integration with real-time banking systems
 
 🔗 Dashboard Example:
-View Summary Dashboard
+(https://github.com/Apurva9903/Bank_Loan_Analysis/blob/main/Summary_Dashboard.png)
