@@ -47,3 +47,5 @@ Borrower Profile: Borrowers with 10+ years of employment are the largest segment
 Seasonality: A clear upward trend in loan applications toward the end of the year suggests a need for increased liquidity in Q4.
 
 Housing Impact: Most applicants are in Rent or Mortgage categories; very few "Own" their homes outright, which correlates with the DTI average
+
+Overview of my Dashboard : https://github.com/Apurva9903/Bank_Loan_Analysis/blob/main/Summary_Dashboard.png
