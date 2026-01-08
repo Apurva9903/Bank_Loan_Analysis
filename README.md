@@ -1,4 +1,5 @@
 🏦 Bank Loan Analytics Project: End-to-End Financial Insights
+
 📌 Project Overview
 This project focuses on providing a data-driven analysis of a bank's lending activities. By leveraging SQL for data processing and Power BI/Tableau for visualization, this dashboard monitors critical lending KPIs, assesses portfolio health (Good vs. Bad Loans), and identifies borrower trends to help the bank optimize its lending strategy.
 
