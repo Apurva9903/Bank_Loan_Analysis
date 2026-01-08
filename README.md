@@ -48,4 +48,4 @@ Seasonality: A clear upward trend in loan applications toward the end of the yea
 
 Housing Impact: Most applicants are in Rent or Mortgage categories; very few "Own" their homes outright, which correlates with the DTI average
 
-Overview of my Dashboard : https://github.com/Apurva9903/Bank_Loan_Analysis/blob/main/Summary_Dashboard.png
+Example of my Dashboard : (https://github.com/Apurva9903/Bank_Loan_Analysis/blob/main/Summary_Dashboard.png)
