@@ -1,4 +1,5 @@
 🏦 Bank Loan Analytics Project: End-to-End Financial Insights
+
 📌 Project Overview
 
 This project delivers an end-to-end analytical solution for evaluating a bank’s loan portfolio using SQL-driven analytics and Power BI visualization.
@@ -20,7 +21,7 @@ Data Analysis & Transformation: SQL (PostgreSQL / SQL Server)
 
 Data Visualization: Power BI
 
-Data Source: Bank_Loan_Data.csv 
+Data Source: [Bank_Loan_Data.csv](https://github.com/Apurva9903/Bank_Loan_Analysis/blob/2307ab8b383a16487baed5f219b3b4e4964c01c1/Bank_Loan_Data.csv) 
 
 📊 Key Performance Indicators (KPIs)
 
