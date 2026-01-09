@@ -1,6 +1,6 @@
-##🏦 Bank Loan Analytics Project: End-to-End Financial Insights
+## 🏦 Bank Loan Analytics Project: End-to-End Financial Insights
 
-###📌 Project Overview
+### 📌 Project Overview
 
 This project delivers an end-to-end analytical solution for evaluating a bank’s loan portfolio using SQL-driven analytics and Power BI visualization.
 The objective is to monitor lending performance, assess portfolio health, and uncover borrower behavior trends that support data-driven credit and risk decisions.
@@ -15,7 +15,7 @@ Risk concentration across borrower segments
 
 Seasonal and geographic lending trends
 
-###🛠️ Technical Stack
+### 🛠️ Technical Stack
 
 Data Analysis & Transformation: SQL (PostgreSQL / SQL Server)
 
@@ -23,7 +23,7 @@ Data Visualization: Power BI
 
 Data Source: [Bank_Loan_Data.csv](https://github.com/Apurva9903/Bank_Loan_Analysis/blob/2307ab8b383a16487baed5f219b3b4e4964c01c1/Bank_Loan_Data.csv) 
 
-###📊 Key Performance Indicators (KPIs)
+### 📊 Key Performance Indicators (KPIs)
 
 The dashboard tracks five core financial KPIs critical to loan portfolio monitoring:
 
@@ -34,7 +34,7 @@ Total Amount Received	$461.7M
 Average Interest Rate	12.1%
 Average Debt-to-Income (DTI)	13.4%
 
-###🖥️ Dashboard Views
+### 🖥️ Dashboard Views
 
 1️⃣ Summary View – Portfolio Health
 
@@ -48,7 +48,7 @@ Identifies Charged-Off loans and total financial loss
 
 Enables rapid risk assessment for senior management
 
-📷 Preview:
+### 📷 Preview:
 
 
 2️⃣ Overview View – Trends & Demographics
@@ -80,9 +80,9 @@ Loan status
 
 This view supports audits, investigations, and targeted risk analysis.
 
-###🔍 Key Insights & Findings
+### 🔍 Key Insights & Findings
 
-###📉 Risk Assessment
+### 📉 Risk Assessment
 
 86% of loans are performing well, indicating a strong portfolio
 
@@ -90,19 +90,19 @@ The 14% Bad Loan rate highlights opportunities to improve underwriting
 
 Certain loan sub-grades show higher default risk and require tighter controls
 
-###👤 Borrower Profile
+### 👤 Borrower Profile
 
 Borrowers with 10+ years of employment form the largest and most stable segment
 
 These customers contribute significantly to predictable revenue
 
-###📆 Seasonality
+### 📆 Seasonality
 
 Loan applications increase steadily throughout the year
 
 Q4 shows the highest demand, suggesting the need for enhanced liquidity planning
 
-###🏠 Housing Impact
+### 🏠 Housing Impact
 
 Most applicants fall under Rent or Mortgage categories
 
@@ -110,7 +110,7 @@ Very few borrowers fully own homes
 
 Housing status correlates strongly with the average DTI of 13.4%
 
-###📂 Repository Structure
+### 📂 Repository Structure
 Bank_Loan_Analysis/
 │
 ├── Data/
@@ -127,7 +127,7 @@ Bank_Loan_Analysis/
 └── README.md
 
 
-###🚀 Business Value
+### 🚀 Business Value
 
 This project demonstrates how data analytics can drive smarter lending decisions by:
 
@@ -139,7 +139,7 @@ Supporting seasonal liquidity planning
 
 Enhancing portfolio profitability and stability
 
-###📌 Future Enhancements
+### 📌 Future Enhancements
 
 Predictive modeling for loan default risk
 
@@ -149,5 +149,5 @@ Automated data refresh using SQL pipelines
 
 Integration with real-time banking systems
 
-###🔗 Dashboard Example:
+### 🔗 Dashboard Example:
 ![image alt](https://github.com/Apurva9903/Bank_Loan_Analysis/blob/5b6b45269000f6404ea601884bdae9e27fe3e47f/Summary_Dashboard.png)
