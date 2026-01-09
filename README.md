@@ -20,7 +20,7 @@ Data Analysis & Transformation: SQL (PostgreSQL / SQL Server)
 
 Data Visualization: Power BI
 
-Data Source: Bank_Loan_Data.csv (stored in the Data/ directory)
+Data Source: Bank_Loan_Data.csv 
 
 📊 Key Performance Indicators (KPIs)
 
