@@ -146,4 +146,4 @@ Automated data refresh using SQL pipelines
 Integration with real-time banking systems
 
 🔗 Dashboard Example:
-(https://github.com/Apurva9903/Bank_Loan_Analysis/blob/main/Summary_Dashboard.png)
+![image alt](https://github.com/Apurva9903/Bank_Loan_Analysis/blob/5b6b45269000f6404ea601884bdae9e27fe3e47f/Summary_Dashboard.png)
